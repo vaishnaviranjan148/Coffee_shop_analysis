@@ -6,8 +6,7 @@ Store performance analysis compared revenue and transaction volumes across diffe
 
 The project emphasizes clarity and business relevance rather than complex modeling, making it easy for non-technical stakeholders to understand. Overall, this project demonstrates the ability to clean, analyze, and visualize data effectively while translating numbers into meaningful business insights. It serves as a strong foundational business intelligence project suitable for portfolio presentation and entry-level to early-intermediate data analyst roles.
 
-[Click here to view Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=a260832b-1f18-4726-a591-3d32a4acbd59&autoAuth=true&ctid=3ffff7b6-7ef4-4fa4-8fea-798ab0455714)
-
+[Click here to view Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=a558396f-0970-49fa-b889-64b0e3903290&autoAuth=true&ctid=3ffff7b6-7ef4-4fa4-8fea-798ab0455714)
 ## Table of Content
 
 1. [About the Company](#about-the-company)
