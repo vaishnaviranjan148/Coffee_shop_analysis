@@ -6,11 +6,26 @@ Store performance analysis compared revenue and transaction volumes across diffe
 
 The project emphasizes clarity and business relevance rather than complex modeling, making it easy for non-technical stakeholders to understand. Overall, this project demonstrates the ability to clean, analyze, and visualize data effectively while translating numbers into meaningful business insights. It serves as a strong foundational business intelligence project suitable for portfolio presentation and entry-level to early-intermediate data analyst roles.
 
+## Table of Content
+
+1. [About the Company](#about-the-company)
+2. [Client Requirement and Objective](#client-requirement-and-objective)
+3. [Primary Goals of the Analysis](#primary-goals-of-the-analysis)
+4. [Datasets Used for the Project](#datasets-used-for-the-project)
+5. [Tools and Techniques Used](#tools-and-techniques-used)
+6. [Sales Analysis](#sales-analysis)
+7. [Product Analysis](#product-analysis)
+8. [Demand Analysis](#demand-analysis)
+9. [Conclusion](#conclusion)
+
+
 ## About the Company
 The Coffee Shop is a multi-location retail café operating across several store locations, including Hell’s Kitchen, Astoria, and Lower Manhattan. The business offers a wide range of products such as coffee, tea, bakery items, drinking chocolate, and packaged goods. The dataset captures detailed transactional sales data, enabling analysis of sales trends, store performance, and customer demand patterns.
 
 ## Client Requirement and Objective
 The management team wanted a clear understanding of overall sales performance, store-wise contribution, and product-level demand. The objective of this analysis was to evaluate revenue trends, identify high-performing stores and products, and understand customer purchasing behaviour across time. The insights are intended to support better decision-making in sales planning, inventory management, and product strategy.
+
+[Home](#table-of-content)
 
 
 ## Primary Goals of the Analysis
@@ -29,6 +44,9 @@ Calendar Dataset
 -	Provides time-based attributes including day of week, month, and hour to support trend and demand analysis.
 These datasets together support sales trend analysis, store performance comparison, and demand behaviour assessment.
 
+[Home](#table-of-content)
+
+
 ## Tools and Techniques Used
 ### Tools
 -	Microsoft Excel
@@ -45,8 +63,14 @@ These datasets together support sales trend analysis, store performance comparis
 -	DAX Measures: Calculating KPIs such as total revenue, average transaction value, and total quantity sold
 -	Data Visualization: Using charts, KPIs, and tables to communicate insights clearly
 
+[Home](#table-of-content)
+
+
 ## Overview
-![Overview](01_overview.png)
+![Overview](screenshots/01_overview.png)
+
+[Home](#table-of-content)
+
 
 ## Sales Analysis
 The Sales Analysis dashboard provides a high-level overview of business performance. It focuses on total revenue, transaction volume, and sales trends across months, days, and hours.
@@ -58,6 +82,8 @@ The Sales Analysis dashboard provides a high-level overview of business performa
 -	Transaction activity peaks during morning to early afternoon hours, indicating higher customer demand during breakfast and lunch periods.
 -	Revenue trends closely follow transaction volume, suggesting stable pricing and consistent product mix.
 -	Weekday sales remain relatively balanced, with minor fluctuations across days.
+
+[Home](#table-of-content)
 
 
 ## Product Analysis
@@ -71,6 +97,8 @@ The Product Analysis dashboard evaluates how different product categories and pr
 -	Some products sell in high volume but at lower prices, while others generate higher revenue with fewer units sold.
 -	A small number of products contribute significantly to total revenue, indicating product dependency.
 
+[Home](#table-of-content)
+
 
 ## Demand Analysis
 The Demand Analysis dashboard focuses on understanding customer purchasing behaviour across time, including daily, hourly, and monthly demand patterns.
@@ -82,8 +110,13 @@ The Demand Analysis dashboard focuses on understanding customer purchasing behav
 -	Certain product categories experience more consistent demand, while others fluctuate more significantly.	
 -	A large portion of daily sales occurs within limited peak hours, increasing operational dependency on these time windows.
 
+[Home](#table-of-content)
+
 
 ## Conclusion
 The Coffee Shop Sales Analysis provides a comprehensive view of sales performance, product contribution, and demand behaviour across multiple store locations. The analysis reveals that revenue is driven primarily by coffee products, peak sales occur during specific hours of the day, and some store locations consistently outperform others. While overall performance is stable, the business shows dependency on a limited set of products and peak demand periods. These insights highlight opportunities to optimize staffing, improve inventory planning, refine product offerings, and enhance sales strategies. Overall, this project demonstrates strong foundational business intelligence skills and serves as a solid portfolio project for data analytics roles.
+
+[Home](#table-of-content)
+
 
 
